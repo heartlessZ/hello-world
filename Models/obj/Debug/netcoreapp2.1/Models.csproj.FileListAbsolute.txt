@@ -1,0 +1,9 @@
+H:\NetcorePractice\NetCoreWebDemo\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+H:\NetcorePractice\NetCoreWebDemo\Models\bin\Debug\netcoreapp2.1\Models.dll
+H:\NetcorePractice\NetCoreWebDemo\Models\bin\Debug\netcoreapp2.1\Models.pdb
+H:\NetcorePractice\NetCoreWebDemo\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+H:\NetcorePractice\NetCoreWebDemo\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+H:\NetcorePractice\NetCoreWebDemo\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+H:\NetcorePractice\NetCoreWebDemo\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+H:\NetcorePractice\NetCoreWebDemo\Models\obj\Debug\netcoreapp2.1\Models.dll
+H:\NetcorePractice\NetCoreWebDemo\Models\obj\Debug\netcoreapp2.1\Models.pdb

@@ -1,0 +1,12 @@
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\bin\Debug\netcoreapp2.1\EntityFramework.deps.json
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\bin\Debug\netcoreapp2.1\EntityFramework.dll
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\obj\Debug\netcoreapp2.1\EntityFramework.csproj.CoreCompileInputs.cache
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\obj\Debug\netcoreapp2.1\EntityFramework.AssemblyInfoInputs.cache
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\obj\Debug\netcoreapp2.1\EntityFramework.AssemblyInfo.cs
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\obj\Debug\netcoreapp2.1\EntityFramework.csprojAssemblyReference.cache
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\bin\Debug\netcoreapp2.1\EntityFramework.pdb
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\bin\Debug\netcoreapp2.1\Models.dll
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\bin\Debug\netcoreapp2.1\Models.pdb
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\obj\Debug\netcoreapp2.1\EntityFramework.csproj.CopyComplete
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\obj\Debug\netcoreapp2.1\EntityFramework.dll
+H:\NetcorePractice\NetCoreWebDemo\EntityFramework\obj\Debug\netcoreapp2.1\EntityFramework.pdb

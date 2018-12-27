@@ -1,0 +1,14 @@
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\bin\Debug\netcoreapp2.1\NetCoreWebDemo.deps.json
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\bin\Debug\netcoreapp2.1\NetCoreWebDemo.runtimeconfig.json
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\bin\Debug\netcoreapp2.1\NetCoreWebDemo.runtimeconfig.dev.json
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\bin\Debug\netcoreapp2.1\NetCoreWebDemo.dll
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\bin\Debug\netcoreapp2.1\NetCoreWebDemo.pdb
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\obj\Debug\netcoreapp2.1\NetCoreWebDemo.csprojAssemblyReference.cache
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\obj\Debug\netcoreapp2.1\NetCoreWebDemo.csproj.CoreCompileInputs.cache
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\obj\Debug\netcoreapp2.1\NetCoreWebDemo.RazorAssemblyInfo.cache
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\obj\Debug\netcoreapp2.1\NetCoreWebDemo.RazorAssemblyInfo.cs
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\obj\Debug\netcoreapp2.1\NetCoreWebDemo.AssemblyInfoInputs.cache
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\obj\Debug\netcoreapp2.1\NetCoreWebDemo.AssemblyInfo.cs
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\obj\Debug\netcoreapp2.1\NetCoreWebDemo.RazorTargetAssemblyInfo.cache
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\obj\Debug\netcoreapp2.1\NetCoreWebDemo.dll
+H:\NetcorePractice\NetCoreWebDemo\NetCoreWebDemo\obj\Debug\netcoreapp2.1\NetCoreWebDemo.pdb
